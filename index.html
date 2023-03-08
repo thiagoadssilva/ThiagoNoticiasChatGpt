@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Site de Notícias</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header  class="site-header">
+    <h1 class="site-title">Site de Notícias</h1>
+    <h4 class="site-subtitle">Desenvolvido com ChatGPT</h4>
+    <nav>
+      <ul>
+        <li><a href="#" onclick="displayCategoryNews('general')">Notícias</a></li>
+        <li><a href="#" onclick="displayCategoryNews('sports')">Esportes</a></li>
+        <li><a href="#" onclick="displayCategoryNews('entertainment')">Entretenimento</a></li>
+        <li><a href="#" onclick="displayCategoryNews('technology')">Tecnologia</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="news"></section>
+  </main>
+  <footer>
+    <p>&copy; 2023 Site de Notícias</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
