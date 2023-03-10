@@ -1,4 +1,4 @@
-const API_KEY = '913a83d7f0a440058284a495642abd1c';
+const API_KEY = '888888888';
 const BASE_URL = `https://newsapi.org/v2/top-headlines?country=br&apiKey=${API_KEY}`;
 
 async function getNews(category) {
