@@ -16,7 +16,8 @@ As notícias são exibidas em um layout simples e responsivo, com o título, uma
     CSS
     JavaScript
 ## API Utilizada
-    NewsAPI
+    NewsAPI: https://newsapi.org/ (é necessário criar uma conta para obter a API Key)
+    
 ## Autor
 
 - [@thiagoadssilva](https://www.github.com/thiagoadssilva)
