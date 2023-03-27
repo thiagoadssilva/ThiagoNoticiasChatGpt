@@ -1,7 +1,7 @@
 
 # Site de Notícias
 
-Este é um projeto de site de notícias desenvolvido utilizando HTML, CSS e JavaScript, com o objetivo de exibir as principais notícias do momento.
+Este é um projeto de site de notícias desenvolvido utilizando HTML, CSS e JavaScript, com o objetivo de exibir as principais notícias do momento. uma curiosidade que esse simples projeto foi desenvolvido completamente pelo chatGpt, achei maravilhoso a capacidade dessa tecnologia...
 
 
 ## Funcionamento
